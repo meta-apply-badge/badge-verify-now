@@ -14,7 +14,7 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
 source_editor:
-  tab_size: 2
+  tab_size: 1
   theme: monokai
   show_gutter: true
 timezone: America/Los_Angeles
