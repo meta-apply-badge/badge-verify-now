@@ -9,9 +9,14 @@ collections_config:
     name: Pages
     icon: wysiwyg
     disable_url: false
+    _enabled_editors:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+source_editor:
+  tab_size: 2
+  theme: monokai
+  show_gutter: true
 timezone: America/Los_Angeles
 markdown:
   engine: commonmark
